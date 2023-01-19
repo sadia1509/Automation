@@ -1,0 +1,10 @@
+org\bjit\sqa\Main.class
+org\Pages\AccountLogoutPage.class
+org\Pages\RegistrationPage.class
+org\bjit\sqa\ExcelDataGetter.class
+org\Pages\ProductPage.class
+org\Pages\ShowAllProductPage.class
+org\Pages\AccountCreatedPage.class
+org\Pages\ShoppingCartPage.class
+org\Pages\MyAccountPage.class
+org\Pages\YourStorePage.class
