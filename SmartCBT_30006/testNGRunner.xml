@@ -1,0 +1,16 @@
+<suite name="TestSuite">
+    <test name="Test">
+        <!--
+         <groups>
+               <run>
+                    <include name ="show" />
+               </run>
+          </groups>
+             -->
+        <parameter name="baseUrl" value="http://10.15.15.89" />
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testcase.TestCaseClass" />
+        </classes>
+    </test>
+</suite>
